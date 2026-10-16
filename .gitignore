@@ -1,0 +1,19 @@
+# Dados do ENEM (arquivos grandes)
+dados/
+*.zip
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+meu-repositorio/
+├── src/
+│   ├── explorar.py
+│   └── dividir.py
+├── saida/          
+├── .gitignore
+└── README.md
