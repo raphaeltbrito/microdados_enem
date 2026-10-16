@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-CAMINHO = r"C:\Users\thiag\Downloads\microdados_enem_2017\DADOS\MICRODADOS_ENEM_2017.csv"
+CAMINHO = r"--COLOQUE O CAMINHO DO CSV AQUI--"
 SAIDA = "saida"
 
 COLUNAS = [
