@@ -11,20 +11,20 @@ Após todo o trabalho de coleta e processamento dos dados, criamos um Google Dri
 
 | Nome da coluna | Descrição da coluna | Exemplo |
 |----------------|---------------------|---------|
-| TP_SEXO | Sexo do participante | M |
-| TP_COR_RACA | Cor/raça | Indígena |
-| TP_FAIXA_ETARIA | Faixa etária | Entre 26 e 30 anos |
+| NU_ANO | Ano do ENEM| 2023 |
 | SG_UF_PROVA | Estado que a prova foi aplicada | PB |
+| TP_SEXO | Sexo do participante | M |
+| TP_FAIXA_ETARIA | Faixa etária | Entre 26 e 30 anos |
+| TP_COR_RACA | Cor/raça | Indígena |
 | TP_ESCOLA | Tipo de escola durante ensino médio | Pública|
 | TP_ST_CONCLUSAO | Situação de conclusão do ensino médio | Já concluiu o ensino médio|
-| NU_ANO | Ano do ENEM| 2023 |
+| NU_NOTA_LC | Nota da prova de Linguagens e Códigos| 615.3|
+| NU_NOTA_REDACAO | Nota da prova de Redação| 800|
+| NU_NOTA_CH | Nota da prova de Ciências Humanas| 658.3|
+| NU_NOTA_CN | Nota da prova de Ciências da Natureza| 702.1|
+| NU_NOTA_MT | Nota da prova de Matemática| 897.5|
 | Q001 | Escolaridade do pai/responsável | Nunca estudou |
 | Q002 | Escolaridade da mãe/responsável | Completou a pós-graduação |
 | Q003 | Grupo que corresponde a ocupação do pai | Grupo 1: lavrador, pescador, lenhador...|
 | Q004 | Grupo que corresponde a ocupação da mãe | Grupo 5: médico, engenheiro, delegado...|
 | Q006 | Renda mensal familiar | De R$1.320,01 até R$1980,00|
-| NU_NOTA_CN | Nota da prova de Ciências da Natureza| 702.1|
-| NU_NOTA_CH | Nota da prova de Ciências Humanas| 658.3|
-| NU_NOTA_LC | Nota da prova de Linguagens e Códigos| 615.3|
-| NU_NOTA_MT | Nota da prova de Matemática| 897.5|
-| NU_NOTA_REDACAO | Nota da prova de Redação| 800|
